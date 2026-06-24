@@ -1,0 +1,8 @@
+/figures
+/models
+*/ex
+report
+results
+runs
+*.ini
+__pycache__
